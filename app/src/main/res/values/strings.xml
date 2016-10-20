@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrCodes</string>
+    <string name="need_camera_permission">Need camera permission</string>
+    <string name="request_permission">Request permission</string>
+</resources>
